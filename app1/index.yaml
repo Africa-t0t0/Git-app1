@@ -3,34 +3,34 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-24T01:25:37.7395419-03:00"
+    created: "2021-12-24T01:36:54.5259565-03:00"
     description: A Helm chart for Kubernetes
     digest: c37c3f1a2aaae7ee01f7a90e4352f446decc7e55482535982beefa790dbb568d
     name: app1
     type: application
     urls:
-    - https://github.com/Africa-t0t0/Git-app1/app1-0.1.0.tgz
+    - https://africa-t0t0.github.io/Git-app1/app1-0.1.0.tgz
     version: 0.1.0
   app2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-24T01:25:37.7430399-03:00"
+    created: "2021-12-24T01:36:54.5269557-03:00"
     description: A Helm chart for Kubernetes
     digest: 1ad333669b68105dd50e4f0647efe4bd66d769f74beeb9685a21bdb034bb186e
     name: app2
     type: application
     urls:
-    - https://github.com/Africa-t0t0/Git-app1/app2-0.1.0.tgz
+    - https://africa-t0t0.github.io/Git-app1/app2-0.1.0.tgz
     version: 0.1.0
   postgres:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-24T01:25:37.7440765-03:00"
+    created: "2021-12-24T01:36:54.5274561-03:00"
     description: A Helm chart for Kubernetes
     digest: bacc39c60fc86133be6ff8cd4ee0055d5f01d2f3b4557cd7bb8c5a387f5b1a42
     name: postgres
     type: application
     urls:
-    - https://github.com/Africa-t0t0/Git-app1/postgres-0.1.0.tgz
+    - https://africa-t0t0.github.io/Git-app1/postgres-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-24T01:25:37.7285414-03:00"
+generated: "2021-12-24T01:36:54.5214542-03:00"
